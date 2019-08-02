@@ -1,0 +1,18 @@
+{
+    "name": "qjd/dingtalk",
+    "description": "dingtalk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "qinjiudong",
+            "email": "qjd1107@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Qjd\\DingTalk\\": "src"
+        }
+    }    
+}
